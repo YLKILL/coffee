@@ -1,0 +1,10 @@
+{
+  "description": "Create and customize coffee shop menus with pricing and catchy slogans, perfect for cafe owners looking to enhance their customer experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
